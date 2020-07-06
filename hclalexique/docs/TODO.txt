@@ -1,0 +1,12 @@
+application name
+setup file
+export result ok
+tester la langue  ok
+tester le lexique ok
+enterkey event OK
+add  lines accrding the result ok
+uniformiser la recherche ok
+detect language ok
+change icons ok
+change preferences ok
+eliminate duplicated spaces ok

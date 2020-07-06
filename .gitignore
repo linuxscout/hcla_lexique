@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# directories
+dist/
+binary/
+versions/
+hclalexique/src/.svn
+hclalexique/dev
+hclalexique/docs/.svn/
+hclalexique/data/.svn/
